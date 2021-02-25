@@ -1,2 +1,2 @@
-This is my first git exercise.
+This is my second  git exercise.
 I like python.
